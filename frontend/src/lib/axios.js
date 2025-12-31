@@ -2,7 +2,7 @@ import axios from "axios";
 import { auth } from "../firebase"; // We still need firebase auth to get tokens
 
 const api = axios.create({
-    baseURL: "http://localhost:10000/api",
+    baseURL: "https://shushrutai-backend.onrender.com/api",
 });
 
 // Request interceptor to add the auth token header to every request
