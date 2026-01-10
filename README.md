@@ -1,1 +1,1 @@
-# techsprint
+# Imagine Cup
