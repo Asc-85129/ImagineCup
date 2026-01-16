@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Shushrut AI Banner" width="100%" />
+
 
   # Shushrut AI
   <h3>Advanced Dermatological Intelligence</h3>
